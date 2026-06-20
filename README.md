@@ -14,7 +14,7 @@ I'm a **Software Engineer 3** at **[Imaginnovate Techsolutions](https://imaginno
 
 My work spans backend engineering with **Java & Spring Boot**, frontend development with **Angular**, and recently building **AI-powered skills and agents** to automate regular workflows at work.
 
-- 🏢 Currently **Software Engineer 3** @ Imaginnovate *(Apr 2026 – Present)*
+- 🏢 Currently **Software Engineer 3** @ Imaginnovate
 - - 📈 Grew from Intern → SE1 → SE2 → SE3 at the same company
   - - 🤖 Building **AI agents & automation tools** to eliminate repetitive work
     - - 🌐 Full-stack: **Spring Boot** backends + **Angular** frontends
