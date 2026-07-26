@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Ganapathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-ganapathi/)
 [![Gmail](https://img.shields.io/badge/Gmail-ganapathideepak97-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganapathideepak97@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=DeepakGanapathi97&style=for-the-badge&color=0e75b6)
 
 ---
 
@@ -82,15 +81,6 @@ A published, npm-installable skill for AI coding agents that cuts output tokens 
 | Role | Period |
 |------|--------|
 | Specialist | Jun 2020 – Apr 2022 |
-
----
-
-## 📊 GitHub Stats
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakGanapathi97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGanapathi97&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepakGanapathi97&theme=tokyonight&hide_border=true)
 
 ---
 
