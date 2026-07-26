@@ -22,7 +22,7 @@ My work spans backend engineering with **Java & Spring Boot**, frontend developm
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [`introvert`](https://github.com/DeepakGanapathi97/introvert) — token-efficient AI agent skill
 
@@ -31,6 +31,15 @@ A published, npm-installable skill for AI coding agents that cuts output tokens 
 - 📦 `npx introvert-skill` · [npm package](https://www.npmjs.com/package/introvert-skill)
 - 🌐 `npx skills add DeepakGanapathi97/introvert` · listed on [skills.sh](https://skills.sh/deepakganapathi97/introvert/introvert)
 - ✅ Backed by an automated live-model eval suite with grammar, vocabulary, and information-parity gates
+- 🔓 MIT licensed, open source
+
+### [`write-like-me`](https://github.com/DeepakGanapathi97/write-like-me) — human-voice writing skill for AI agents
+
+A published, npm-installable skill for AI coding agents that strips AI-writing tells (per Wikipedia's *Signs of AI Writing*) out of drafted prose and matches the user's own voice from a few writing samples — including preserving dialect (e.g. Indian English constructions like "revert," "kindly do the needful") that models otherwise flatten toward generic English. Installs for Claude Code, Cursor, Codex CLI, and Gemini CLI.
+
+- 📦 `npx write-like-me` · [npm package](https://www.npmjs.com/package/write-like-me)
+- 🌐 `npx skills add DeepakGanapathi97/write-like-me`
+- ✅ Validated with the skill-creator eval framework: 100% vs. 62% pass rate against a no-skill baseline
 - 🔓 MIT licensed, open source
 
 ---
